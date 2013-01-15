@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Modulo</string>
+    <string name="vol">Volume:</string>
+    <string name="freq">Frequency:</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="init_vol">50</string>
+    <string name="init_hz">440</string>
+    <string-array name="wave_choices">
+        <item >Sine</item>
+        <item >Saw</item>
+        <item >Square</item>
+        <item >Triangle</item>
+    </string-array>
+    <string name="wave">Waveform:</string>
+    <string name="desc">Modulo logo</string>
+
+</resources>
